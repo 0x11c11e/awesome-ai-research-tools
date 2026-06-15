@@ -179,8 +179,8 @@ Capture and query research notes, highlights, and team knowledge.
 - [NotebookLM](https://notebooklm.google.com/) - Google's source-grounded notebook with chat, audio/video overviews, and reports anchored to user-uploaded sources.
 - [Notion AI](https://www.notion.com/product/ai) - In-Notion AI for summarizing notes, drafting, and querying research databases.
 - [Onyx](https://www.onyx.app/) - Open-source enterprise search and RAG over your team's knowledge (formerly Danswer).
-- [Remio](https://remio.ai/) - Local-first AI knowledge base for querying research files, webpages, recordings, emails, and notes.
 - [Reflect](https://reflect.app/) - Backlinked notes with AI for outlining, summaries, and voice transcription.
+- [Remio](https://remio.ai/) - Local-first AI knowledge base for querying research files, webpages, recordings, emails, and notes.
 
 <a id="resources--trackers"></a>
 
