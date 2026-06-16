@@ -74,6 +74,7 @@ Autonomous and semi-autonomous agents that plan, search, and synthesize.
 - [Lune](https://luneresearch.com) - MCP server giving agents grounded knowledge and tools for scientific workflows, sourced from research papers.
 - [PaperQA2](https://github.com/Future-House/paper-qa) - Open-source RAG agent for high-accuracy Q&A over scientific PDFs with grounded citations.
 - [Stanford STORM](https://github.com/stanford-oval/storm) - LLM knowledge-curation system that researches a topic and writes a Wikipedia-style report with citations.
+- [Superhighway](https://superhighway.walls.sh) - Web search API for AI agents (search, news, scrape, research) with a [guide for building an academic literature-review agent](https://superhighway.walls.sh/guides/academic-research-agent) in Python; pay-per-call with USDC or a free API key.
 
 <a id="reading--paper-qa"></a>
 
