@@ -52,6 +52,7 @@ Search engines, databases, and feeds for finding relevant work.
 - [Keenious](https://keenious.com/) - Suggests relevant papers from the document you are writing in Word or Docs.
 - [Paper Digest](https://www.paperdigest.org/) - Generates literature reviews, paper summaries, and daily research digests with per-sentence citations.
 - [Paperguide](https://paperguide.ai/) - AI search across 200M papers with deep-research reports and reference management.
+- [Papers](https://papers.app.nz/) - GPU-accelerated semantic search linking each paper to its code, methods, and datasets.
 - [Perlego AI Researcher](https://www.perlego.com/ai-researcher) - Smart Search over 1M+ academic textbooks.
 - [Perplexity](https://www.perplexity.ai/) - AI answer engine with inline citations and a Deep Research mode for multi-step report generation.
 - [R Discovery](https://discovery.researcher.life/) - Personalized academic feed across 250M+ papers with AI summaries and translations.
