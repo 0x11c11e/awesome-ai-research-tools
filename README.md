@@ -73,6 +73,7 @@ Autonomous and semi-autonomous agents that plan, search, and synthesize.
 - [Iris.ai](https://iris.ai/) - Enterprise agentic RAG platform for ingesting and analyzing scientific documents.
 - [Lune](https://luneresearch.com) - MCP server giving agents grounded knowledge and tools for scientific workflows, sourced from research papers.
 - [PaperQA2](https://github.com/Future-House/paper-qa) - Open-source RAG agent for high-accuracy Q&A over scientific PDFs with grounded citations.
+- [Research Paper Lifecycle Skills](https://github.com/ShaishavMaisuria/research-paper-lifecycle-skills) - Agent Skills package for literature review, citation verification, submission checks, rebuttals, and presentations.
 - [Stanford STORM](https://github.com/stanford-oval/storm) - LLM knowledge-curation system that researches a topic and writes a Wikipedia-style report with citations.
 
 <a id="reading--paper-qa"></a>
