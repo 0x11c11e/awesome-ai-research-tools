@@ -209,7 +209,7 @@ The most notable additions in this refresh:
 | Citation & references | CiteMe, Sourcely, ChatAcademia                                                         |
 | Open data & APIs      | OpenAlex, Semantic Scholar API, CORE, Lens.org                                         |
 | Writing & critique    | CAJAL (local IMRaD), Jenni AI, Kvire (AI peer-review), Lex, PaperClaw (VS Code), Prism |
-| Notes & knowledge     | NotebookLM, Onyx (ex-Danswer), Reflect, Notion AI                                      |
+| Notes & knowledge     | NotebookLM, Onyx (ex-Danswer), Reflect, Notion AI, Remio                               |
 | Resources & trackers  | Ithaka S+R GenAI Tracker, MIDAS Guide, Systematic Review Toolbox                       |
 
 Removed in this refresh: tools that went offline (AnySummary, ProDream, Synthesis.ai, Lateral, Phind) or pivoted away from research use cases (Bearly, Textero, DataSeer industrial). CoralAI was unreachable at audit time but may be transient — open an issue if you have current information. Several URLs were updated to current homes (Elicit, Research Rabbit, Inciteful, SciSpace, Hugging Face Papers, Onyx).
