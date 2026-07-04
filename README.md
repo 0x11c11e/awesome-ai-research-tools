@@ -17,7 +17,7 @@ A curated list of AI-powered tools for academic and scientific research — refr
 ---
 
 > Tools to accelerate every stage of the research pipeline — discovery, reading, citation, analysis, writing, and dissemination.
-> Every link in this list was verified live in **June 2026**. Tools that went offline, pivoted away from research, or were superseded have been removed; URLs that moved have been updated to their current home.
+> Every link in this list was verified live in **July 2026**. Tools that went offline, pivoted away from research, or were superseded have been removed; URLs that moved have been updated to their current home.
 
 ## Contents
 
