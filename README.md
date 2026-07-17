@@ -68,7 +68,9 @@ Search engines, databases, and feeds for finding relevant work.
 
 Autonomous and semi-autonomous agents that plan, search, and synthesize.
 
+- [Agon](https://github.com/AutoResearch-Factory/Agon) - Autonomous research system built on Prompt Economy and used across more than ten domains.
 - [arXiv MCP Server](https://github.com/blazickjp/arxiv-mcp-server) - MCP server giving LLM clients arXiv search, paper download/read, and Semantic Scholar citation lookups.
+- [AutoNumerics](https://github.com/Daviddjddu/Autonumerics) - Multi-agent system for building and verifying numerical PDE solvers from natural-language descriptions.
 - [BGPT](https://github.com/connerlambden/bgpt-mcp) - REST/Python and MCP scientific-paper search returning structured full-text evidence: methods, limitations, conflicts of interest, and quality scores.
 - [Edison Kosmos](https://www.edisonscientific.com/) - Multi-agent platform (ex-FutureHouse) running parallel research tasks across literature and datasets.
 - [Iris.ai](https://iris.ai/) - Enterprise agentic RAG platform for ingesting and analyzing scientific documents.
