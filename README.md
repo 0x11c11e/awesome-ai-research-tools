@@ -8,7 +8,7 @@ A curated list of AI-powered tools for academic and scientific research — refr
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 [![Last commit](https://img.shields.io/github/last-commit/0x11c11e/awesome-ai-research-tools)](https://github.com/0x11c11e/awesome-ai-research-tools/commits)
-[![Stars](https://img.shields.io/github/stars/0x11c11e/awesome-ai-research-tools?style=social)](https://github.com/0x11c11e/awesome-ai-research-tools/stargazers)
+[![Stars](https://img.shields.io/github/stars/0x11c11e/awesome-ai-research-tools?style=social)](https://github.com/0x11c11e/awesome-ai-research-tools)
 [![Link check](https://github.com/0x11c11e/awesome-ai-research-tools/actions/workflows/link-check.yml/badge.svg)](https://github.com/0x11c11e/awesome-ai-research-tools/actions/workflows/link-check.yml)
 [![Tools](https://img.shields.io/badge/tools-76-2ea44f.svg)](#contents)
 
