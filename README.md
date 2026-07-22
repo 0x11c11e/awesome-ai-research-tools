@@ -177,6 +177,7 @@ Open scholarly graphs and corpora for builders and meta-researchers.
 
 Capture and query research notes, highlights, and team knowledge.
 
+- [Nodus](https://github.com/Drakonis96/nodus) - Workspace for researchers and students, with AI-assisted semantic search, idea graphs, gap analysis, and grounded writing.
 - [NotebookLM](https://notebooklm.google.com/) - Google's source-grounded notebook with chat, audio/video overviews, and reports anchored to user-uploaded sources.
 - [Notion AI](https://www.notion.com/product/ai) - In-Notion AI for summarizing notes, drafting, and querying research databases.
 - [Onyx](https://www.onyx.app/) - Open-source enterprise search and RAG over your team's knowledge (formerly Danswer).
