@@ -4,6 +4,9 @@
 
 A curated list of AI-powered tools for academic and scientific research — refreshed and link-verified for 2026.
 
+
+- [STIL.AI — AI Fashion Design API](https://tools.gracestack.se/designa-klader.html) — Generate unique fashion designs from text. GPT Image 2 powered. 9 kr per design.
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
