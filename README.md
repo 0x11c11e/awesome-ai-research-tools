@@ -194,6 +194,7 @@ Curated guides and trackers cataloguing AI tools and methodologies for research.
 - [Generative AI Product Tracker (Ithaka S+R)](https://sr.ithaka.org/our-work/generative-ai-product-tracker/) - Living Airtable tracker of generative-AI products marketed to higher-ed teaching, learning, and research.
 - [MIDAS Generative AI for Research Guide](https://midas.umich.edu/research/generative-ai-hub/generative-ai-for-research-guide/) - University of Michigan curated guide to GenAI tools for literature search, analysis, and ideation.
 - [Systematic Review Toolbox](https://systematicreviewtools.com/) - Searchable catalogue of 235+ tools supporting systematic reviews and evidence synthesis.
+- [VerdictPal](https://verdictpal.com/) - Editorial card atlas of AI research tools, with dated pricing and privacy checks, documented failure modes, and a sourced model and benchmark ledger.
 
 ---
 
@@ -212,7 +213,7 @@ The most notable additions in this refresh:
 | Open data & APIs      | OpenAlex, Semantic Scholar API, CORE, Lens.org                                         |
 | Writing & critique    | CAJAL (local IMRaD), Jenni AI, Kvire (AI peer-review), Lex, PaperClaw (VS Code), Prism |
 | Notes & knowledge     | NotebookLM, Onyx (ex-Danswer), Reflect, Notion AI, Remio                               |
-| Resources & trackers  | Ithaka S+R GenAI Tracker, MIDAS Guide, Systematic Review Toolbox                       |
+| Resources & trackers  | Ithaka S+R GenAI Tracker, MIDAS Guide, Systematic Review Toolbox, VerdictPal           |
 
 Removed in this refresh: tools that went offline (AnySummary, ProDream, Synthesis.ai, Lateral, Phind) or pivoted away from research use cases (Bearly, Textero, DataSeer industrial). CoralAI was unreachable at audit time but may be transient — open an issue if you have current information. Several URLs were updated to current homes (Elicit, Research Rabbit, Inciteful, SciSpace, Hugging Face Papers, Onyx).
 
