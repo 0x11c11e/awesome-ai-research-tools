@@ -17,7 +17,7 @@ A curated list of AI-powered tools for academic and scientific research — refr
 ---
 
 > Tools to accelerate every stage of the research pipeline — discovery, reading, citation, analysis, writing, and dissemination.
-> Every link in this list was verified live in **July 2026**. Tools that went offline, pivoted away from research, or were superseded have been removed; URLs that moved have been updated to their current home.
+> Every link in this list was verified live in **August 2026**. Tools that went offline, pivoted away from research, or were superseded have been removed; URLs that moved have been updated to their current home.
 
 ## Contents
 
@@ -70,7 +70,7 @@ Search engines, databases, and feeds for finding relevant work.
 Autonomous and semi-autonomous agents that plan, search, and synthesize.
 
 - [arXiv MCP Server](https://github.com/blazickjp/arxiv-mcp-server) - MCP server giving LLM clients arXiv search, paper download/read, and Semantic Scholar citation lookups.
-- [BGPT](https://github.com/connerlambden/bgpt-mcp) - REST/Python and MCP scientific-paper search returning structured full-text evidence: methods, limitations, conflicts of interest, and quality scores.
+- [BGPT](https://bgpt.pro/) - REST/Python and MCP scientific-paper search returning structured full-text evidence: methods, limitations, conflicts of interest, and quality scores.
 - [Edison Kosmos](https://www.edisonscientific.com/) - Multi-agent platform (ex-FutureHouse) running parallel research tasks across literature and datasets.
 - [Iris.ai](https://iris.ai/) - Enterprise agentic RAG platform for ingesting and analyzing scientific documents.
 - [Jacobian](https://github.com/morluto/jacobian) - MCP server and Python library for exact mathematical computation and conjecture testing.
