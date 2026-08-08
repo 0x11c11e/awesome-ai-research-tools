@@ -58,6 +58,7 @@ Search engines, databases, and feeds for finding relevant work.
 - [Perplexity](https://www.perplexity.ai/) - AI answer engine with inline citations and a Deep Research mode for multi-step report generation.
 - [R Discovery](https://discovery.researcher.life/) - Personalized academic feed across 250M+ papers with AI summaries and translations.
 - [Research Rabbit](https://app.researchrabbit.ai/) - Citation-graph paper discovery with personalized email alerts.
+- [Science AI Journal](https://scienceaijournal.com/research-gaps) - Surfaces open research questions rather than papers, each with its key and most-cited supporting literature.
 - [Scite](https://scite.ai/) - Smart Citations classifying 1.5B+ citations as supporting, contrasting, or mentioning.
 - [Semantic Scholar](https://www.semanticscholar.org/) - Free AI-powered academic search with TLDR summaries, citation context, libraries, and recommendation feeds.
 - [Suppr](https://suppr.wilddata.cn/) - Chinese-language AI literature workspace with PubMed search, paper translation, deep-research summaries, and a Zotero plugin.
