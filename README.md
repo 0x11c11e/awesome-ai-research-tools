@@ -132,6 +132,7 @@ Citation graphs, topic maps, and clustering.
 Drafting, language polishing, and formatting for academic writing.
 
 - [CAJAL](https://github.com/Agnuxo1/CAJAL) - Local fine-tuned LLM (Qwen-based) for drafting IMRaD manuscripts offline, with arXiv/CrossRef citation validation.
+- [humanize-mba-text-skill](https://github.com/stephenlzc/humanize-mba-text-skill) - Agent skill that detects and rewrites AI writing patterns in Chinese academic theses.
 - [Jenni AI](https://jenni.ai/) - Academic writing assistant with autocomplete grounded in your imported papers and built-in citation generation.
 - [Kvire](https://www.kvire.com/) - AI peer-reviewer for academic drafts that flags logical fallacies, hedging, and missing citations with corpus-backed evidence.
 - [Lex](https://lex.page/) - AI-assisted document editor for collaborative writing with grounded suggestions and editing commands.
