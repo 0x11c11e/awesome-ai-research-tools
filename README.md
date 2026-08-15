@@ -185,6 +185,7 @@ Capture and query research notes, highlights, and team knowledge.
 - [Onyx](https://www.onyx.app/) - Open-source enterprise search and RAG over your team's knowledge (formerly Danswer).
 - [Reflect](https://reflect.app/) - Backlinked notes with AI for outlining, summaries, and voice transcription.
 - [Remio](https://remio.ai/) - Local-first AI knowledge base for querying research files, webpages, recordings, emails, and notes.
+- [ThoughtDAG](https://github.com/chenxiachan/thoughtdag) - Local-first research canvas for editing which conversation and document branches enter LLM context.
 
 <a id="resources--trackers"></a>
 
