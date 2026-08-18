@@ -193,6 +193,7 @@ Capture and query research notes, highlights, and team knowledge.
 
 Curated guides and trackers cataloguing AI tools and methodologies for research.
 
+- [Awesome Study Tools](https://github.com/studyarena-com/awesome-study-tools#readme) - Curated directory of 176 study and learning tools by category and region.
 - [Generative AI Product Tracker (Ithaka S+R)](https://sr.ithaka.org/our-work/generative-ai-product-tracker/) - Living Airtable tracker of generative-AI products marketed to higher-ed teaching, learning, and research.
 - [MIDAS Generative AI for Research Guide](https://midas.umich.edu/research/generative-ai-hub/generative-ai-for-research-guide/) - University of Michigan curated guide to GenAI tools for literature search, analysis, and ideation.
 - [Systematic Review Toolbox](https://systematicreviewtools.com/) - Searchable catalogue of 235+ tools supporting systematic reviews and evidence synthesis.
