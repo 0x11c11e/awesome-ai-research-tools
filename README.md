@@ -74,7 +74,7 @@ Autonomous and semi-autonomous agents that plan, search, and synthesize.
 - [Edison Kosmos](https://www.edisonscientific.com/) - Multi-agent platform (ex-FutureHouse) running parallel research tasks across literature and datasets.
 - [Iris.ai](https://iris.ai/) - Enterprise agentic RAG platform for ingesting and analyzing scientific documents.
 - [Jacobian](https://github.com/morluto/jacobian) - MCP server and Python library for exact mathematical computation and conjecture testing.
-- [Lune](https://luneresearch.com) - MCP server giving agents grounded knowledge and tools for scientific workflows, sourced from research papers.
+- [Lune Research](https://github.com/RetrogradeLabs/lune-mcp-server) - MCP server grounding agents in full-text peer-reviewed papers from top venues (NeurIPS, ICLR, ACL, CVPR, USENIX Security), with citation trails in both directions and claim verification that returns verbatim supporting quotes.
 - [PaperQA2](https://github.com/Future-House/paper-qa) - Open-source RAG agent for high-accuracy Q&A over scientific PDFs with grounded citations.
 - [Stanford STORM](https://github.com/stanford-oval/storm) - LLM knowledge-curation system that researches a topic and writes a Wikipedia-style report with citations.
 
