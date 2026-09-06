@@ -147,6 +147,7 @@ Drafting, language polishing, and formatting for academic writing.
 
 Tools for analyzing research data with AI assistance.
 
+- [graph2table](https://graph2table.com/) - Extracts the data table from a chart image automatically, with a verification overlay and Excel/CSV export.
 - [Hex](https://hex.tech/) - Collaborative agentic notebooks with AI-assisted SQL, Python, and visualization.
 - [Rows](https://rows.com/) - AI-driven spreadsheet that acts as a data analyst for ad-hoc analysis and reporting.
 
