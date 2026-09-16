@@ -60,6 +60,7 @@ Search engines, databases, and feeds for finding relevant work.
 - [Research Rabbit](https://app.researchrabbit.ai/) - Citation-graph paper discovery with personalized email alerts.
 - [Scite](https://scite.ai/) - Smart Citations classifying 1.5B+ citations as supporting, contrasting, or mentioning.
 - [Semantic Scholar](https://www.semanticscholar.org/) - Free AI-powered academic search with TLDR summaries, citation context, libraries, and recommendation feeds.
+- [SixSentences](https://github.com/SixSentences/sixsentences) - Self-hostable research workspace with boolean scholarly search, screening, data analysis, and manuscript writing.
 - [Suppr](https://suppr.wilddata.cn/) - Chinese-language AI literature workspace with PubMed search, paper translation, deep-research summaries, and a Zotero plugin.
 - [Undermind](https://undermind.ai/) - Iterative deep-search agent that finds relevant papers across millions of sources.
 
