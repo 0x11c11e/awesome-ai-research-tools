@@ -80,6 +80,8 @@ Autonomous and semi-autonomous agents that plan, search, and synthesize.
 
 <a id="reading--paper-qa"></a>
 
+- [DeepResearcher](https://orkas.ai/agents/deep-researcher/?source=gh_11research) - Plans research, checks contradictions, and synthesizes evidence with citations inside Orkas's open-source, local-first desktop workforce.
+
 ## Reading & Paper Q&A
 
 Chat with PDFs, summarize, and explain dense passages.
