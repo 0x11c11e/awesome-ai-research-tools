@@ -10,7 +10,7 @@ A curated list of AI-powered tools for academic and scientific research — refr
 [![Last commit](https://img.shields.io/github/last-commit/0x11c11e/awesome-ai-research-tools)](https://github.com/0x11c11e/awesome-ai-research-tools/commits)
 [![Stars](https://img.shields.io/github/stars/0x11c11e/awesome-ai-research-tools?style=social)](https://github.com/0x11c11e/awesome-ai-research-tools)
 [![Link check](https://github.com/0x11c11e/awesome-ai-research-tools/actions/workflows/link-check.yml/badge.svg)](https://github.com/0x11c11e/awesome-ai-research-tools/actions/workflows/link-check.yml)
-[![Tools](https://img.shields.io/badge/tools-76-2ea44f.svg)](#contents)
+[![Tools](https://img.shields.io/badge/tools-77-2ea44f.svg)](#contents)
 
 </div>
 
@@ -137,6 +137,7 @@ Drafting, language polishing, and formatting for academic writing.
 - [Lex](https://lex.page/) - AI-assisted document editor for collaborative writing with grounded suggestions and editing commands.
 - [PaperClaw](https://marketplace.visualstudio.com/items?itemName=agnuxo1.paperclaw) - VS Code extension that drafts IMRaD manuscripts locally via Ollama with Semantic Scholar–cross-referenced citations and LaTeX export.
 - [Prism](https://openai.com/prism/) - Free AI-native LaTeX workspace for scientific writing, collaboration, literature search, and citation support.
+- [ScholarSpec](https://scholarspec.com/) - Automated manuscript and thesis formatting engine for Word documents tailored to journal and university guidelines.
 - [SciSpace](https://scispace.com/) - AI research assistant for literature review, paper formatting, and writing (formerly Typeset).
 - [Wordvice AI](https://wordvice.ai/) - Grammar, proofread, paraphrase, and summarize tools tuned for academic writing.
 - [Writefull](https://writefull.com/) - Academic writing and editing assistant with Word and Overleaf plugins.
