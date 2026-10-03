@@ -200,7 +200,8 @@ Curated guides and trackers cataloguing AI tools and methodologies for research.
 ---
 
 <a id="recently-added-may-2026"></a>
-
+- [ModelBenchmark](https://modelbenchmark.io/) - Catalog of 2,406 AI models with composite scores, prices, and context windows.
+- 
 ## Recently Added (May 2026)
 
 The most notable additions in this refresh:
