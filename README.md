@@ -94,6 +94,7 @@ Chat with PDFs, summarize, and explain dense passages.
 - [Humata](https://humata.ai/) - Document Q&A across uploaded PDFs with traceable inline citations.
 - [Logically](https://logically.app/) - AI research assistant combining reference manager, document Q&A, and citation-backed writing (formerly Afforai).
 - [OpenRead](https://www.openread.academy/home) - Reading platform with paper Q&A, related-paper graphs, and annotations.
+- [PaperFold](https://github.com/chenxiachan/paperfold) - ArXiv reader with semantic zoom, verbatim excerpts, AI summaries, and paragraph-linked answers.
 - [Scholarcy](https://www.scholarcy.com/) - Article summarizer that extracts key findings, references, and figures into structured cards.
 - [SciSummary](https://scisummary.com/) - Section-by-section AI summaries with figure interpretation and bulk processing.
 
