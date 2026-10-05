@@ -160,6 +160,7 @@ Speech-to-text, OCR, and audio/video understanding.
 - [Deepgram](https://www.deepgram.com/) - Speech-to-text and voice AI APIs including the multilingual Flux conversational model.
 - [Mathpix](https://mathpix.com/) - OCR for math, chemistry, tables, and handwriting; converts PDFs to LaTeX, Markdown, and DOCX.
 - [Otter.ai](https://otter.ai/) - Real-time meeting transcription with speaker recognition and chat over transcripts.
+- [SummarizAI](https://summarizai.ink/) - Chrome extension that summarizes YouTube lectures and talks with chapters, chat, and flashcards.
 - [tl;dv](https://tldv.io/) - Auto-joining notetaker for Zoom, Meet, and Teams with summaries in 30+ languages.
 - [Transkriptor](https://transkriptor.com/) - AI audio/video transcription in 100+ languages.
 
