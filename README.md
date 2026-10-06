@@ -85,6 +85,7 @@ Autonomous and semi-autonomous agents that plan, search, and synthesize.
 Chat with PDFs, summarize, and explain dense passages.
 
 - [Adobe Acrobat AI Assistant](https://www.adobe.com/acrobat/online/ai-chat-pdf.html) - In-PDF chat, summaries, and citation tracing inside Acrobat.
+- [Amplify by ResearchBunny](https://www.researchamplify.com/) - Turns a paper's PDF into a video abstract, audio brief, and infographic, with an embeddable Q&A widget.
 - [Anara](https://anara.com/) - AI workspace for PDFs and lectures with source-linked citations (formerly Unriddle).
 - [AskYourPDF](https://askyourpdf.com/) - Chat with PDFs, with ChatGPT and Zotero integrations.
 - [ChatPDF](https://www.chatpdf.com/) - Chat with PDFs and other documents, with summary and writing add-ons.
