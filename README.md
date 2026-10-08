@@ -156,6 +156,7 @@ Tools for analyzing research data with AI assistance.
 
 Speech-to-text, OCR, and audio/video understanding.
 
+- [Arcmira](https://arcmira.com/) - Searches indexed YouTube transcripts for source-linked passages and speaker appearances.
 - [AssemblyAI](https://www.assemblyai.com/) - Speech-to-text API with diarization, multilingual transcription, and audio understanding.
 - [Deepgram](https://www.deepgram.com/) - Speech-to-text and voice AI APIs including the multilingual Flux conversational model.
 - [Mathpix](https://mathpix.com/) - OCR for math, chemistry, tables, and handwriting; converts PDFs to LaTeX, Markdown, and DOCX.
