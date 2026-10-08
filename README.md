@@ -44,6 +44,7 @@ Search engines, databases, and feeds for finding relevant work.
 
 - [2Dsearch](https://app.2dsearch.com/) - Visual canvas-based Boolean query builder for systematic search.
 - [Ai2 Asta](https://asta.allen.ai) - Allen AI's agentic ecosystem for scholarly Q&A and evidence-grounded literature synthesis.
+- [AI-Powered-Literature-Review-Skills](https://github.com/stephenlzc/AI-Powered-Literature-Review-Skills) - Agent skill running an 8-phase literature review with browser-automated database search, deduplication, and GB/T 7714-2015 citations.
 - [ALMa](https://github.com/costantinoai/alma-library-manager) - Self-hosted paper discovery engine that recommends related work, tracks author feeds, and learns from your saves.
 - [ASReview](https://asreview.nl/) - Open-source AI-assisted screening for systematic reviews.
 - [Consensus](https://consensus.app/) - Search engine that extracts consensus answers directly from research papers.
