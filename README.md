@@ -94,6 +94,7 @@ Chat with PDFs, summarize, and explain dense passages.
 - [Genei](https://www.genei.io/) - AI summarization of PDFs and webpages with built-in citation management.
 - [Humata](https://humata.ai/) - Document Q&A across uploaded PDFs with traceable inline citations.
 - [Logically](https://logically.app/) - AI research assistant combining reference manager, document Q&A, and citation-backed writing (formerly Afforai).
+- [Nujan](https://nujan.app/) - Dual-pane paper reader to unpack dense methodology, explain formulas, and chat across papers side-by-side with AI.
 - [OpenRead](https://www.openread.academy/home) - Reading platform with paper Q&A, related-paper graphs, and annotations.
 - [Scholarcy](https://www.scholarcy.com/) - Article summarizer that extracts key findings, references, and figures into structured cards.
 - [SciSummary](https://scisummary.com/) - Section-by-section AI summaries with figure interpretation and bulk processing.
