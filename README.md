@@ -136,6 +136,7 @@ Drafting, language polishing, and formatting for academic writing.
 - [Jenni AI](https://jenni.ai/) - Academic writing assistant with autocomplete grounded in your imported papers and built-in citation generation.
 - [Kvire](https://www.kvire.com/) - AI peer-reviewer for academic drafts that flags logical fallacies, hedging, and missing citations with corpus-backed evidence.
 - [Lex](https://lex.page/) - AI-assisted document editor for collaborative writing with grounded suggestions and editing commands.
+- [Oleafly](https://oleafly.com) - Open-source desktop LaTeX, Typst and Markdown editor for papers and theses, with an optional bring-your-own-model AI assistant.
 - [PaperClaw](https://marketplace.visualstudio.com/items?itemName=agnuxo1.paperclaw) - VS Code extension that drafts IMRaD manuscripts locally via Ollama with Semantic Scholar–cross-referenced citations and LaTeX export.
 - [Prism](https://openai.com/prism/) - Free AI-native LaTeX workspace for scientific writing, collaboration, literature search, and citation support.
 - [SciSpace](https://scispace.com/) - AI research assistant for literature review, paper formatting, and writing (formerly Typeset).
