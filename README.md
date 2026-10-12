@@ -107,6 +107,7 @@ Collect, organize, and format references.
 - [ChatAcademia](https://www.chatacademia.com/) - Multi-database academic search agent across arXiv, PubMed, and Scholar with citation tools.
 - [Citely](https://citely.ai/) - AI citation checker and academic source finder for verifying references and claims.
 - [CiteMe](https://citeme.app/) - AI citation generator searching 8+ databases (OpenAlex, PubMed, Semantic Scholar) in 40+ styles, with Word/Docs add-ins.
+- [LitSource](https://litsource.net/) - Finds biomedical source records and checks reference metadata against scholarly identifiers.
 - [Paperpile](https://paperpile.com/) - Reference manager with native Google Docs and Word integration.
 - [Sourcely](https://sourcely.net/) - Paste text and find supporting academic sources, exporting in APA/MLA/Chicago/IEEE.
 - [Zotero](https://www.zotero.org/) - Open-source reference manager with web, desktop, and mobile clients.
