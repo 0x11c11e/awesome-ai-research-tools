@@ -78,6 +78,7 @@ Autonomous and semi-autonomous agents that plan, search, and synthesize.
 - [Lune](https://luneresearch.com) - MCP server giving agents grounded knowledge and tools for scientific workflows, sourced from research papers.
 - [PaperQA2](https://github.com/Future-House/paper-qa) - Open-source RAG agent for high-accuracy Q&A over scientific PDFs with grounded citations.
 - [Stanford STORM](https://github.com/stanford-oval/storm) - LLM knowledge-curation system that researches a topic and writes a Wikipedia-style report with citations.
+- [Yila AI](https://yila.ai) - Research agent that runs literature reviews, PDF analysis, and paper-to-slides with claims traceable to retrieved sources.
 
 <a id="reading--paper-qa"></a>
 
