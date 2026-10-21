@@ -109,6 +109,7 @@ Collect, organize, and format references.
 - [CiteMe](https://citeme.app/) - AI citation generator searching 8+ databases (OpenAlex, PubMed, Semantic Scholar) in 40+ styles, with Word/Docs add-ins.
 - [Paperpile](https://paperpile.com/) - Reference manager with native Google Docs and Word integration.
 - [Sourcely](https://sourcely.net/) - Paste text and find supporting academic sources, exporting in APA/MLA/Chicago/IEEE.
+- [veripaper](https://szzxli.github.io/veripaper/web/) - Open-source checker that flags nonexistent references in drafts; optionally judges claim support with your API key.
 - [Zotero](https://www.zotero.org/) - Open-source reference manager with web, desktop, and mobile clients.
 
 <a id="citation-networks--visualization"></a>
