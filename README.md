@@ -105,6 +105,7 @@ Chat with PDFs, summarize, and explain dense passages.
 Collect, organize, and format references.
 
 - [ChatAcademia](https://www.chatacademia.com/) - Multi-database academic search agent across arXiv, PubMed, and Scholar with citation tools.
+- [CitationLX](https://citationlx.online) - Web citation repair tool designed for academics, researchers, and students to repair mangled datasets.
 - [Citely](https://citely.ai/) - AI citation checker and academic source finder for verifying references and claims.
 - [CiteMe](https://citeme.app/) - AI citation generator searching 8+ databases (OpenAlex, PubMed, Semantic Scholar) in 40+ styles, with Word/Docs add-ins.
 - [Paperpile](https://paperpile.com/) - Reference manager with native Google Docs and Word integration.
