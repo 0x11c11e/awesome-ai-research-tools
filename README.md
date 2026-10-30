@@ -159,6 +159,7 @@ Speech-to-text, OCR, and audio/video understanding.
 
 - [AssemblyAI](https://www.assemblyai.com/) - Speech-to-text API with diarization, multilingual transcription, and audio understanding.
 - [Deepgram](https://www.deepgram.com/) - Speech-to-text and voice AI APIs including the multilingual Flux conversational model.
+- [GetYouTubeTranscript](https://getyoutubetranscript.com/?utm_source=awesome-ai-research-tools&utm_medium=referral) - Fetch YouTube video transcripts by API or MCP, with timestamps and language choice.
 - [Mathpix](https://mathpix.com/) - OCR for math, chemistry, tables, and handwriting; converts PDFs to LaTeX, Markdown, and DOCX.
 - [Otter.ai](https://otter.ai/) - Real-time meeting transcription with speaker recognition and chat over transcripts.
 - [tl;dv](https://tldv.io/) - Auto-joining notetaker for Zoom, Meet, and Teams with summaries in 30+ languages.
