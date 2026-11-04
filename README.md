@@ -72,6 +72,7 @@ Autonomous and semi-autonomous agents that plan, search, and synthesize.
 
 - [arXiv MCP Server](https://github.com/blazickjp/arxiv-mcp-server) - MCP server giving LLM clients arXiv search, paper download/read, and Semantic Scholar citation lookups.
 - [BGPT](https://bgpt.pro/) - REST/Python and MCP scientific-paper search returning structured full-text evidence: methods, limitations, conflicts of interest, and quality scores.
+- [DisconfirmAI](https://disconfirmai.com/en) - Investment research agent that searches public sources for evidence against a thesis before you commit.
 - [Edison Kosmos](https://www.edisonscientific.com/) - Multi-agent platform (ex-FutureHouse) running parallel research tasks across literature and datasets.
 - [Iris.ai](https://iris.ai/) - Enterprise agentic RAG platform for ingesting and analyzing scientific documents.
 - [Jacobian](https://github.com/morluto/jacobian) - MCP server and Python library for exact mathematical computation and conjecture testing.
