@@ -162,6 +162,7 @@ Speech-to-text, OCR, and audio/video understanding.
 - [Mathpix](https://mathpix.com/) - OCR for math, chemistry, tables, and handwriting; converts PDFs to LaTeX, Markdown, and DOCX.
 - [Otter.ai](https://otter.ai/) - Real-time meeting transcription with speaker recognition and chat over transcripts.
 - [tl;dv](https://tldv.io/) - Auto-joining notetaker for Zoom, Meet, and Teams with summaries in 30+ languages.
+- [Transcribe Video: To The Text](https://video2text.ttt.so/) - iPhone app transcribing video/audio files, YouTube links and voice recordings with speaker labels, summaries and DOCX export.
 - [Transkriptor](https://transkriptor.com/) - AI audio/video transcription in 100+ languages.
 
 <a id="open-datasets--apis"></a>
