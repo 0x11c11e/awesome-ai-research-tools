@@ -89,6 +89,7 @@ Chat with PDFs, summarize, and explain dense passages.
 - [Anara](https://anara.com/) - AI workspace for PDFs and lectures with source-linked citations (formerly Unriddle).
 - [AskYourPDF](https://askyourpdf.com/) - Chat with PDFs, with ChatGPT and Zotero integrations.
 - [ChatPDF](https://www.chatpdf.com/) - Chat with PDFs and other documents, with summary and writing add-ons.
+- [DisconfirmAI](https://disconfirmai.com/en) - Investment research reading platform that seeks evidence that could overturn a thesis before forming conviction.
 - [docAnalyzer](https://docanalyzer.ai/) - Multi-PDF question answering with cross-document comparison.
 - [Explainpaper](https://www.explainpaper.com/) - Highlight passages of a paper to get plain-language AI explanations.
 - [Genei](https://www.genei.io/) - AI summarization of PDFs and webpages with built-in citation management.
