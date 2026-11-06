@@ -162,6 +162,7 @@ Speech-to-text, OCR, and audio/video understanding.
 - [Mathpix](https://mathpix.com/) - OCR for math, chemistry, tables, and handwriting; converts PDFs to LaTeX, Markdown, and DOCX.
 - [Otter.ai](https://otter.ai/) - Real-time meeting transcription with speaker recognition and chat over transcripts.
 - [tl;dv](https://tldv.io/) - Auto-joining notetaker for Zoom, Meet, and Teams with summaries in 30+ languages.
+- [OneMira C1](https://onemira.com/products/c1) - Subscription-free standalone AI voice recorder with local AI transcription, speaker separation, editable Markdown (`.md`) notes, and an open-source [MCP server](https://github.com/onemira-space/onemira-mcp) for qualitative interviews and academic research.
 - [Transkriptor](https://transkriptor.com/) - AI audio/video transcription in 100+ languages.
 
 <a id="open-datasets--apis"></a>
