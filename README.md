@@ -52,6 +52,7 @@ Search engines, databases, and feeds for finding relevant work.
 - [Elicit](https://elicit.com/) - AI research assistant that automates literature review, summarization, and data extraction.
 - [Hugging Face Papers](https://huggingface.co/papers/trending) - Daily trending machine-learning papers with linked code and discussion (replaces Papers With Code).
 - [Keenious](https://keenious.com/) - Suggests relevant papers from the document you are writing in Word or Docs.
+- [LiterView](https://www.literview.com/) - Feed of new journal articles by social-science subfield, with a library for saved PDFs, highlights, and notes.
 - [Paper Digest](https://www.paperdigest.org/) - Generates literature reviews, paper summaries, and daily research digests with per-sentence citations.
 - [Paperguide](https://paperguide.ai/) - AI search across 200M papers with deep-research reports and reference management.
 - [Papers](https://papers.app.nz/) - GPU-accelerated semantic search linking each paper to its code, methods, and datasets.
