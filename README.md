@@ -75,7 +75,8 @@ Autonomous and semi-autonomous agents that plan, search, and synthesize.
 - [Edison Kosmos](https://www.edisonscientific.com/) - Multi-agent platform (ex-FutureHouse) running parallel research tasks across literature and datasets.
 - [Iris.ai](https://iris.ai/) - Enterprise agentic RAG platform for ingesting and analyzing scientific documents.
 - [Jacobian](https://github.com/morluto/jacobian) - MCP server and Python library for exact mathematical computation and conjecture testing.
-- [Lune](https://luneresearch.com) - MCP server giving agents grounded knowledge and tools for scientific workflows, sourced from research papers.
+- [Lune Research](https://luneresearch.com) - MCP server grounding agents in full-text peer-reviewed papers, with two-way citation trails and verbatim claim verification.
+- [OpenDraft](https://github.com/federicodeponte/opendraft) - Open-source engine where AI agents research a topic and draft a cited paper from real academic sources.
 - [PaperQA2](https://github.com/Future-House/paper-qa) - Open-source RAG agent for high-accuracy Q&A over scientific PDFs with grounded citations.
 - [Stanford STORM](https://github.com/stanford-oval/storm) - LLM knowledge-curation system that researches a topic and writes a Wikipedia-style report with citations.
 
@@ -134,11 +135,13 @@ Citation graphs, topic maps, and clustering.
 Drafting, language polishing, and formatting for academic writing.
 
 - [CAJAL](https://github.com/Agnuxo1/CAJAL) - Local fine-tuned LLM (Qwen-based) for drafting IMRaD manuscripts offline, with arXiv/CrossRef citation validation.
+- [humanize-mba-text-skill](https://github.com/stephenlzc/humanize-mba-text-skill) - Agent skill that detects and rewrites AI writing patterns in Chinese academic theses.
 - [Jenni AI](https://jenni.ai/) - Academic writing assistant with autocomplete grounded in your imported papers and built-in citation generation.
 - [Kvire](https://www.kvire.com/) - AI peer-reviewer for academic drafts that flags logical fallacies, hedging, and missing citations with corpus-backed evidence.
 - [Lex](https://lex.page/) - AI-assisted document editor for collaborative writing with grounded suggestions and editing commands.
 - [PaperClaw](https://marketplace.visualstudio.com/items?itemName=agnuxo1.paperclaw) - VS Code extension that drafts IMRaD manuscripts locally via Ollama with Semantic Scholar–cross-referenced citations and LaTeX export.
 - [Prism](https://openai.com/prism/) - Free AI-native LaTeX workspace for scientific writing, collaboration, literature search, and citation support.
+- [ScholarCopilot](https://github.com/TIGER-AI-Lab/ScholarCopilot) - Generates academic prose and retrieves citations through a jointly trained language model.
 - [SciSpace](https://scispace.com/) - AI research assistant for literature review, paper formatting, and writing (formerly Typeset).
 - [Wordvice AI](https://wordvice.ai/) - Grammar, proofread, paraphrase, and summarize tools tuned for academic writing.
 - [Writefull](https://writefull.com/) - Academic writing and editing assistant with Word and Overleaf plugins.
@@ -149,6 +152,7 @@ Drafting, language polishing, and formatting for academic writing.
 
 Tools for analyzing research data with AI assistance.
 
+- [graph2table](https://graph2table.com/) - Extracts the data table from a chart image automatically, with a verification overlay and Excel/CSV export.
 - [Hex](https://hex.tech/) - Collaborative agentic notebooks with AI-assisted SQL, Python, and visualization.
 - [Rows](https://rows.com/) - AI-driven spreadsheet that acts as a data analyst for ad-hoc analysis and reporting.
 
