@@ -94,6 +94,7 @@ Chat with PDFs, summarize, and explain dense passages.
 - [Explainpaper](https://www.explainpaper.com/) - Highlight passages of a paper to get plain-language AI explanations.
 - [Genei](https://www.genei.io/) - AI summarization of PDFs and webpages with built-in citation management.
 - [Humata](https://humata.ai/) - Document Q&A across uploaded PDFs with traceable inline citations.
+- [iSomor](https://tryisomor.com/en/use-cases/research-paper-translation) - Translates text-based PDF papers with layout preserved, side-by-side reading, and bilingual PDF export.
 - [Logically](https://logically.app/) - AI research assistant combining reference manager, document Q&A, and citation-backed writing (formerly Afforai).
 - [Nujan](https://nujan.app/) - Dual-pane paper reader that explains methodology and formulas, with AI chat across papers side by side.
 - [OpenRead](https://www.openread.academy/home) - Reading platform with paper Q&A, related-paper graphs, and annotations.
