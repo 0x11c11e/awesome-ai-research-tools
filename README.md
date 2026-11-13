@@ -186,6 +186,7 @@ Open scholarly graphs and corpora for builders and meta-researchers.
 
 Capture and query research notes, highlights, and team knowledge.
 
+- [Glasp](https://glasp.co/) - Highlights web pages and PDFs, shows YouTube transcripts with AI summaries, exports notes to Notion and Obsidian.
 - [Nodus](https://github.com/Drakonis96/nodus) - Workspace for researchers and students, with AI-assisted semantic search, idea graphs, gap analysis, and grounded writing.
 - [NotebookLM](https://notebooklm.google.com/) - Google's source-grounded notebook with chat, audio/video overviews, and reports anchored to user-uploaded sources.
 - [Notion AI](https://www.notion.com/product/ai) - In-Notion AI for summarizing notes, drafting, and querying research databases.
