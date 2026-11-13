@@ -143,6 +143,7 @@ Drafting, language polishing, and formatting for academic writing.
 - [PaperClaw](https://marketplace.visualstudio.com/items?itemName=agnuxo1.paperclaw) - VS Code extension that drafts IMRaD manuscripts locally via Ollama with Semantic Scholar–cross-referenced citations and LaTeX export.
 - [Prism](https://openai.com/prism/) - Free AI-native LaTeX workspace for scientific writing, collaboration, literature search, and citation support.
 - [ScholarCopilot](https://github.com/TIGER-AI-Lab/ScholarCopilot) - Generates academic prose and retrieves citations through a jointly trained language model.
+- [Scientific Figure](https://scientificfigure.com/) - Draws scientific illustrations, graphical abstracts, plots, and conference posters from a text prompt, sketch, or PDF.
 - [SciSpace](https://scispace.com/) - AI research assistant for literature review, paper formatting, and writing (formerly Typeset).
 - [Wordvice AI](https://wordvice.ai/) - Grammar, proofread, paraphrase, and summarize tools tuned for academic writing.
 - [Writefull](https://writefull.com/) - Academic writing and editing assistant with Word and Overleaf plugins.
