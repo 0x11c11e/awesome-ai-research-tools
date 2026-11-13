@@ -71,6 +71,8 @@ Search engines, databases, and feeds for finding relevant work.
 Autonomous and semi-autonomous agents that plan, search, and synthesize.
 
 - [arXiv MCP Server](https://github.com/blazickjp/arxiv-mcp-server) - MCP server giving LLM clients arXiv search, paper download/read, and Semantic Scholar citation lookups.
+
+- [AutoResearch](https://autoresearch.me/en/) - Browser-based end-to-end AI research system from idea to a complete paper; application-only private beta.
 - [BGPT](https://bgpt.pro/) - REST/Python and MCP scientific-paper search returning structured full-text evidence: methods, limitations, conflicts of interest, and quality scores.
 - [Edison Kosmos](https://www.edisonscientific.com/) - Multi-agent platform (ex-FutureHouse) running parallel research tasks across literature and datasets.
 - [Iris.ai](https://iris.ai/) - Enterprise agentic RAG platform for ingesting and analyzing scientific documents.
