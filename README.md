@@ -100,6 +100,7 @@ Chat with PDFs, summarize, and explain dense passages.
 - [OpenRead](https://www.openread.academy/home) - Reading platform with paper Q&A, related-paper graphs, and annotations.
 - [Scholarcy](https://www.scholarcy.com/) - Article summarizer that extracts key findings, references, and figures into structured cards.
 - [SciSummary](https://scisummary.com/) - Section-by-section AI summaries with figure interpretation and bulk processing.
+- [SummarizePaper](https://www.summarizepaper.com/) - Summaries and paper Q&A for arXiv, bioRxiv and medRxiv preprints, with daily alerts and a bibliography checker.
 
 <a id="citation--reference-management"></a>
 
