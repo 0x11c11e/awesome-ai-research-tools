@@ -50,6 +50,7 @@ Search engines, databases, and feeds for finding relevant work.
 - [Consensus](https://consensus.app/) - Search engine that extracts consensus answers directly from research papers.
 - [Dimensions](https://www.dimensions.ai/) - Scholarly research analytics database covering 164M+ publications.
 - [Elicit](https://elicit.com/) - AI research assistant that automates literature review, summarization, and data extraction.
+- [Google Scholar API](https://apify.com/johnvc/google-scholar-api) - Hosted Apify API that returns Google Scholar search results, citation counts, and author profiles as JSON.
 - [Hugging Face Papers](https://huggingface.co/papers/trending) - Daily trending machine-learning papers with linked code and discussion (replaces Papers With Code).
 - [Keenious](https://keenious.com/) - Suggests relevant papers from the document you are writing in Word or Docs.
 - [Paper Digest](https://www.paperdigest.org/) - Generates literature reviews, paper summaries, and daily research digests with per-sentence citations.
