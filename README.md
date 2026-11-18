@@ -46,6 +46,7 @@ Search engines, databases, and feeds for finding relevant work.
 - [Ai2 Asta](https://asta.allen.ai) - Allen AI's agentic ecosystem for scholarly Q&A and evidence-grounded literature synthesis.
 - [AI-Powered-Literature-Review-Skills](https://github.com/stephenlzc/AI-Powered-Literature-Review-Skills) - Agent skill running an 8-phase literature review with browser-automated database search, deduplication, and GB/T 7714-2015 citations.
 - [ALMa](https://github.com/costantinoai/alma-library-manager) - Self-hosted paper discovery engine that recommends related work, tracks author feeds, and learns from your saves.
+- [arXiv TLDR](https://arxivtldr.org/) - Summaries of new arXiv papers with key contributions, a weekly digest, and a browser extension.
 - [ASReview](https://asreview.nl/) - Open-source AI-assisted screening for systematic reviews.
 - [Consensus](https://consensus.app/) - Search engine that extracts consensus answers directly from research papers.
 - [Dimensions](https://www.dimensions.ai/) - Scholarly research analytics database covering 164M+ publications.
