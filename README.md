@@ -177,7 +177,7 @@ Speech-to-text, OCR, and audio/video understanding.
 Open scholarly graphs and corpora for builders and meta-researchers.
 
 - [CORE](https://core.ac.uk/) - World's largest open-access full-text corpus (449M papers) with search UI, API, and bulk datasets.
-- [FlashData](https://flashdata.dev/) - Google Search, YouTube transcripts/metadata, and video download APIs with free trial and pay-as-you-go pricing.
+- [FlashData](https://flashdata.dev/) - Real-time Google Search SERP, YouTube metadata/transcripts, and cloud video download APIs & hosted MCP; free trial (no credit card) and $0/mo pay-as-you-go.
 - [OpenAlex](https://openalex.org/) - Free open scholarly index of 313M+ works with a fully open JSON API.
 - [Semantic Scholar API](https://www.semanticscholar.org/product/api) - Free academic-graph API covering 234M+ papers, citations, authors, and SPECTER2 embeddings.
 
