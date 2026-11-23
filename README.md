@@ -75,6 +75,7 @@ Autonomous and semi-autonomous agents that plan, search, and synthesize.
 - [Edison Kosmos](https://www.edisonscientific.com/) - Multi-agent platform (ex-FutureHouse) running parallel research tasks across literature and datasets.
 - [Iris.ai](https://iris.ai/) - Enterprise agentic RAG platform for ingesting and analyzing scientific documents.
 - [Jacobian](https://github.com/morluto/jacobian) - MCP server and Python library for exact mathematical computation and conjecture testing.
+- [last30days](https://github.com/mvanhorn/last30days-skill) - Agent skill that searches recent Reddit, X, YouTube, Hacker News, and web discussion and writes a cited brief.
 - [Lune Research](https://luneresearch.com) - MCP server grounding agents in full-text peer-reviewed papers, with two-way citation trails and verbatim claim verification.
 - [OpenDraft](https://github.com/federicodeponte/opendraft) - Open-source engine where AI agents research a topic and draft a cited paper from real academic sources.
 - [PaperQA2](https://github.com/Future-House/paper-qa) - Open-source RAG agent for high-accuracy Q&A over scientific PDFs with grounded citations.
