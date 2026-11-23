@@ -191,7 +191,7 @@ Capture and query research notes, highlights, and team knowledge.
 - [Notion AI](https://www.notion.com/product/ai) - In-Notion AI for summarizing notes, drafting, and querying research databases.
 - [Onyx](https://www.onyx.app/) - Open-source enterprise search and RAG over your team's knowledge (formerly Danswer).
 - [Reflect](https://reflect.app/) - Backlinked notes with AI for outlining, summaries, and voice transcription.
-- [Remio](https://remio.ai/) - Local-first AI knowledge base for querying research files, webpages, recordings, emails, and notes.
+- [remio](https://remio.ai/) - Desktop AI agent for searching research sources and turning findings into editable documents and presentations.
 - [ThoughtDAG](https://github.com/chenxiachan/thoughtdag) - Local-first research canvas for editing which conversation and document branches enter LLM context.
 
 <a id="resources--trackers"></a>
@@ -220,7 +220,7 @@ The most notable additions in this refresh:
 | Citation & references | CiteMe, Sourcely, ChatAcademia                                                         |
 | Open data & APIs      | OpenAlex, Semantic Scholar API, CORE, Lens.org                                         |
 | Writing & critique    | CAJAL (local IMRaD), Jenni AI, Kvire (AI peer-review), Lex, PaperClaw (VS Code), Prism |
-| Notes & knowledge     | NotebookLM, Onyx (ex-Danswer), Reflect, Notion AI, Remio                               |
+| Notes & knowledge     | NotebookLM, Onyx (ex-Danswer), Reflect, Notion AI, remio                               |
 | Resources & trackers  | Ithaka S+R GenAI Tracker, MIDAS Guide, Systematic Review Toolbox                       |
 
 Removed in this refresh: tools that went offline (AnySummary, ProDream, Synthesis.ai, Lateral, Phind) or pivoted away from research use cases (Bearly, Textero, DataSeer industrial). CoralAI was unreachable at audit time but may be transient — open an issue if you have current information. Several URLs were updated to current homes (Elicit, Research Rabbit, Inciteful, SciSpace, Hugging Face Papers, Onyx).
