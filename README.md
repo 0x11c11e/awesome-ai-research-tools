@@ -169,6 +169,7 @@ Speech-to-text, OCR, and audio/video understanding.
 - [Otter.ai](https://otter.ai/) - Real-time meeting transcription with speaker recognition and chat over transcripts.
 - [tl;dv](https://tldv.io/) - Auto-joining notetaker for Zoom, Meet, and Teams with summaries in 30+ languages.
 - [Transkriptor](https://transkriptor.com/) - AI audio/video transcription in 100+ languages.
+- [EarScribe](https://earscribe.app) - Browser transcription with Whisper running on the device, so recordings are never uploaded; timestamped transcript with SRT/VTT export.
 
 <a id="open-datasets--apis"></a>
 
