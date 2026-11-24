@@ -178,6 +178,7 @@ Open scholarly graphs and corpora for builders and meta-researchers.
 
 - [CORE](https://core.ac.uk/) - World's largest open-access full-text corpus (449M papers) with search UI, API, and bulk datasets.
 - [OpenAlex](https://openalex.org/) - Free open scholarly index of 313M+ works with a fully open JSON API.
+- [Scigantic](https://scigantic.com/developers) - Free search API and MCP server over 8,000+ public scientific datasets, with schema cards and loading code.
 - [Semantic Scholar API](https://www.semanticscholar.org/product/api) - Free academic-graph API covering 234M+ papers, citations, authors, and SPECTER2 embeddings.
 
 <a id="notes--knowledge-management"></a>
