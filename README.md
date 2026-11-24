@@ -156,6 +156,7 @@ Tools for analyzing research data with AI assistance.
 - [graph2table](https://graph2table.com/) - Extracts the data table from a chart image automatically, with a verification overlay and Excel/CSV export.
 - [Hex](https://hex.tech/) - Collaborative agentic notebooks with AI-assisted SQL, Python, and visualization.
 - [Rows](https://rows.com/) - AI-driven spreadsheet that acts as a data analyst for ad-hoc analysis and reporting.
+- [Public Records MCP](https://github.com/GeminiGeorge22/publicrecords-mcp) - 18 Apify-hosted MCP servers for public data: SAM.gov, Grants.gov, USAspending, EU TED and UK tenders, city council meetings, Ashby/Greenhouse/Lever/SmartRecruiters jobs, company social links, Google Ads Transparency, Etsy sales, sports odds, Spotify play counts.
 
 <a id="transcription--multimodal"></a>
 
