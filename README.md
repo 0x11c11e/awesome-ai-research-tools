@@ -79,6 +79,7 @@ Autonomous and semi-autonomous agents that plan, search, and synthesize.
 - [OpenDraft](https://github.com/federicodeponte/opendraft) - Open-source engine where AI agents research a topic and draft a cited paper from real academic sources.
 - [PaperQA2](https://github.com/Future-House/paper-qa) - Open-source RAG agent for high-accuracy Q&A over scientific PDFs with grounded citations.
 - [Stanford STORM](https://github.com/stanford-oval/storm) - LLM knowledge-curation system that researches a topic and writes a Wikipedia-style report with citations.
+- [The SEO Agent MCP](https://github.com/jeremy665/theseoagent-mcp) - Open-source TypeScript MCP server for automated website auditing, keyword research, and source-grounded long-form publishing.
 
 <a id="reading--paper-qa"></a>
 
