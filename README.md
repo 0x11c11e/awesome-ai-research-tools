@@ -98,6 +98,7 @@ Chat with PDFs, summarize, and explain dense passages.
 - [Logically](https://logically.app/) - AI research assistant combining reference manager, document Q&A, and citation-backed writing (formerly Afforai).
 - [Nujan](https://nujan.app/) - Dual-pane paper reader that explains methodology and formulas, with AI chat across papers side by side.
 - [OpenRead](https://www.openread.academy/home) - Reading platform with paper Q&A, related-paper graphs, and annotations.
+- - [Renota](https://www.werenota.com) - Chrome extension that answers questions about webpages with numbered citations and saves answers to a knowledge base.
 - [Scholarcy](https://www.scholarcy.com/) - Article summarizer that extracts key findings, references, and figures into structured cards.
 - [SciSummary](https://scisummary.com/) - Section-by-section AI summaries with figure interpretation and bulk processing.
 
