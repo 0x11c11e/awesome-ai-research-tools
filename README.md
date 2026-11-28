@@ -53,6 +53,7 @@ Search engines, databases, and feeds for finding relevant work.
 - [Hugging Face Papers](https://huggingface.co/papers/trending) - Daily trending machine-learning papers with linked code and discussion (replaces Papers With Code).
 - [Keenious](https://keenious.com/) - Suggests relevant papers from the document you are writing in Word or Docs.
 - [Paper Digest](https://www.paperdigest.org/) - Generates literature reviews, paper summaries, and daily research digests with per-sentence citations.
+- [Paper Radar](https://github.com/Eliot5566/JEV-Paper-Radar) - Scores new arXiv, bioRxiv, and PubMed papers against plain-English interests and publishes daily pages and RSS.
 - [Paperguide](https://paperguide.ai/) - AI search across 200M papers with deep-research reports and reference management.
 - [Papers](https://papers.app.nz/) - GPU-accelerated semantic search linking each paper to its code, methods, and datasets.
 - [Perlego AI Researcher](https://www.perlego.com/ai-researcher) - Smart Search over 1M+ academic textbooks.
